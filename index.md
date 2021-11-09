@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages Cynthia!
 
 You can use the [editor on GitHub](https://github.com/cynthiabp/cynthiabp.github.oi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
